@@ -1,0 +1,7 @@
+*.db
+*.log
+*.png
+/target
+/bin
+/new_folder
+
